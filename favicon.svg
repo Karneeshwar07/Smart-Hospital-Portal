@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 200" fill="none">
+  <defs>
+    <linearGradient id="favGrad" x1="10%" y1="20%" x2="95%" y2="80%">
+      <stop offset="0%" stop-color="#FF2B25" />
+      <stop offset="35%" stop-color="#FF4D26" />
+      <stop offset="70%" stop-color="#FF7518" />
+      <stop offset="100%" stop-color="#FF8A00" />
+    </linearGradient>
+  </defs>
+  <path
+    d="M 108 34 C 90 14, 48 10, 26 42 C 4 72, 14 116, 52 148 C 80 172, 110 186, 122 188 C 124 188, 126 186, 128 184 C 134 176, 142 168, 140 160 C 142 160, 150 160, 158 152 C 166 144, 168 136, 166 130 C 174 130, 186 126, 188 114 C 190 104, 184 96, 180 94 C 192 90, 202 80, 198 62 C 195 48, 184 40, 174 40 C 178 30, 172 16, 156 16 C 144 16, 138 22, 134 26 C 128 18, 116 18, 108 34 Z"
+    fill="url(#favGrad)"
+  />
+  <g stroke="#FFFFFF" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" fill="none">
+    <path d="M 144 20 C 142 30, 148 40, 160 36" />
+    <path d="M 160 36 C 168 34, 174 42, 176 48" />
+    <path d="M 178 52 C 168 56, 164 68, 174 74" />
+    <path d="M 174 74 C 182 78, 188 74, 194 68" />
+    <path d="M 180 96 C 168 98, 164 110, 172 116" />
+    <path d="M 172 116 C 178 120, 184 118, 186 114" />
+    <path d="M 166 132 C 156 134, 152 144, 158 150" />
+    <path d="M 140 162 C 134 166, 130 174, 134 180" />
+  </g>
+  <g fill="#FFFFFF">
+    <rect x="94" y="54" width="28" height="74" rx="3" />
+    <rect x="71" y="77" width="74" height="28" rx="3" />
+  </g>
+</svg>
